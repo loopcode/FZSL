@@ -1,3 +1,7 @@
+CHANGELOG
+=========
+20250617
+
 FileVersion
 ===========
 Version=7.0
